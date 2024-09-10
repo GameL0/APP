@@ -5,3 +5,7 @@
 - marcar/desmarcar metas como concluída
 - remover metas
 - sitesmas de mensagens
+
+# Estrutura de repetição
+
+- [x] while
