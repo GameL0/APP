@@ -68,3 +68,7 @@ Apresentar os dados
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assícronas e Promises
+
+- [x] Uso de funções assíncronas (assync/await)
